@@ -1,6 +1,6 @@
 ---
 name: Audio-JackMiniMix
-version: 0.01
+version: 0.02
 author:
   - Nicholas J. Humfrey <njh@aelius.com>
 abstract: Talk to JACK Mini Mixer using OSC
@@ -13,5 +13,5 @@ build_requires:
 provides:
   Audio::JackMiniMix:
     file: lib/Audio/JackMiniMix.pm
-    version: 0.01
+    version: 0.02
 generated_by: Module::Build version 0.2611
